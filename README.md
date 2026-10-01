@@ -1014,14 +1014,14 @@ These items should be resolved during implementation and pilot validation rather
 ## 🚗 Vehicle Detection & Tracking
 
 <p align="center">
-  <img src="images/1.png" alt="AI Vehicle Detection and Tracking" width="900">
+  <img src="images/1.PNG" alt="AI Vehicle Detection and Tracking" width="900">
 </p>
 
 ---
 ## 👤 Face Matching
 
 <p align="center">
-  <img src="images/2.png" alt="Wanted and Missing Person Face Matching" width="900">
+  <img src="images/2.PNG" alt="Wanted and Missing Person Face Matching" width="900">
 </p>
 
 ---
